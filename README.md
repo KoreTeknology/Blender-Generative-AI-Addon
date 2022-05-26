@@ -1,6 +1,5 @@
 # Blender 3x AI Addon
-A research based on artificial Intelligence with Blender, this is a multi-steps development project, with System Learning focus in mind.
-
+A research based on artificial Intelligence with Blender, this is a multi-steps development project, with **System Learning** focus in mind.
 
 <table>
 <tr>
@@ -76,4 +75,6 @@ A research based on artificial Intelligence with Blender, this is a multi-steps 
         </ul>
       </li>
 </ul>
+
+---
 
