@@ -78,3 +78,9 @@ A research based on artificial Intelligence with Blender, this is a multi-steps 
 
 ---
 
+## Collecting Data from user experience
+
+- User profils and details
+- User Actions-Chains and Combos-Series
+- User Undos/Redos recognization methods
+- User double Actions suspicious methods
