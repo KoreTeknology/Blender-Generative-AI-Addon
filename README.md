@@ -3,6 +3,12 @@ A research based on *Artificial Intelligence* within Blender software, this is a
 
 <img src="https://img.shields.io/badge/Blender-3.1.0-green" /> <img src="https://img.shields.io/badge/Python-3.7-blue" /> <img src="https://img.shields.io/badge/Addon-0.0.1a-yellow" /> <img src="https://img.shields.io/badge/CAN-X.1567D-red" />
 
+## Context & Vision
+
+My fist goal here is to provide a simple way to interact with the user data, in fact, we are talking about the methods that every users may define during his creation process. To do this, my plan is to create this addon, that keeps user history, tracks actions and return various types of contents. This can be archieved, creating a simple AI that can learn from the user and his favorite shortcuts and menu entries combos.
+
+---
+
 <table>
 <tr>
 <th align="center", width="880">Data Types</th>
