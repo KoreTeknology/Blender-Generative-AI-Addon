@@ -1,5 +1,5 @@
 # Blender 3x AI Addon
-A research based on artificial Intelligence with Blender, this is a multi-steps development project, with **System Learning** focus in mind.
+A research based on artificial Intelligence with Blender, this is a multi-steps development project, with **System Learning** focus in mind. This script/addon is intended to serve the purpose to analyse user actions and submit various infos in return along the learning path.
 
 <table>
 <tr>
@@ -84,3 +84,18 @@ A research based on artificial Intelligence with Blender, this is a multi-steps 
 - User Actions-Chains and Combos-Series
 - User Undos/Redos recognization methods
 - User double Actions suspicious methods
+
+---
+
+## Saving user data as Data collection
+
+- Many options: Structural, Lineal, Hierachical...
+- Internal data, External files (new extension type?)
+
+---
+
+## User Interface Access
+
+- Bottom line (Important infos)
+- 3D View panel (N)
+- New editor window
