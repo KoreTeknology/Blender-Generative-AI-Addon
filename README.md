@@ -1,5 +1,7 @@
 # Blender 3x AI Addon
-A research based on artificial Intelligence with Blender, this is a multi-steps development project, with **System Learning** focus in mind. This script/addon is intended to serve the purpose to analyse user actions and submit various infos in return along the learning path.
+A research based on *Artificial Intelligence* within Blender software, this is a multi-steps development project, with **System Learning** focus in mind. This script/addon is intended to serve the purpose to analyse user actions and submit various infos in return along the learning path.
+
+<img src="https://img.shields.io/badge/Blender-3.1.0-green" /> <img src="https://img.shields.io/badge/Python-3.7-blue" /> <img src="https://img.shields.io/badge/Addon-1.4.1-yellow" />
 
 <table>
 <tr>
@@ -99,3 +101,14 @@ A research based on artificial Intelligence with Blender, this is a multi-steps 
 - Bottom line (Important infos)
 - 3D View panel (N)
 - New editor window
+
+---
+
+## Infos
+
+* Author: **Uriel Deveaud** - [Kore Teknology](https://github.com/KoreTeknology) 
+
+<img src="https://img.shields.io/badge/CG Art-1995-red" /> <img src="https://img.shields.io/badge/3D Blender-2002-red" /> <img src="https://img.shields.io/badge/Python Dev-2005-red" /> <img src="https://img.shields.io/badge/3D Trainer-2008-red" /> <img src="https://img.shields.io/badge/Coding Trainer-2010-red" /> <img src="https://img.shields.io/badge/GE-2015-darkorange" /> <img src="https://img.shields.io/badge/VR-2017-darkorange" />
+
+* License: This project is released under the GPL License.
+* This work is dedicated to all Blender users ;)
