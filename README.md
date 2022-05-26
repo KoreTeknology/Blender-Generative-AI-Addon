@@ -27,6 +27,12 @@ A research based on artificial Intelligence with Blender, this is a multi-steps 
           <li>What is the time between same files edition?</li>
         </ul>
   </li>
+      <li><b>User Types</b>
+        <ul>
+          <li>What is the skills level of a specific user?</li>
+          <li>What is the most needed skill by user type</li>
+        </ul>
+      </li>
 </ul>
 
 <table>
@@ -36,12 +42,17 @@ A research based on artificial Intelligence with Blender, this is a multi-steps 
 </table>
 
 <ul>
-      <li><b>Real-time</b>
+      <li><b>Real-time Support</b>
         <ul>
           <li>Suggest a serie of optional processes and combos</li>
           <li>Suggest a serie of optional Shortcuts</li>
           <li>Suggest a serie of optional parametric objects</li>
           <li>Suggest a serie of optional Texturing processes</li>
+        </ul>
+      </li>
+      <li><b>Real-time Auto-Correct</b>
+        <ul>
+          <li>Show errors based on 3 main error types*</li>
         </ul>
       </li>
 </ul>
