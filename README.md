@@ -80,7 +80,7 @@ My fist goal here is to provide a simple way to interact with the user data, in 
   <li><b>Temporary Files</b>
         <ul>
           <li>Realize 3 reality states A-X-B (data morphing)</li>
-          <li>Compare 2 states</li>
+          <li>Compare 2 states A/B</li>
         </ul>
       </li>
 </ul>
