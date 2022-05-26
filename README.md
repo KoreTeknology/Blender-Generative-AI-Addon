@@ -1,7 +1,7 @@
 # Blender 3x AI Addon
 A research based on *Artificial Intelligence* within Blender software, this is a multi-steps development project, with **System Learning** focus in mind. This script/addon is intended to serve the purpose to analyse user actions and submit various infos in return along the learning path.
 
-<img src="https://img.shields.io/badge/Blender-3.1.0-green" /> <img src="https://img.shields.io/badge/Python-3.7-blue" /> <img src="https://img.shields.io/badge/Addon-0.0.1a-yellow" />
+<img src="https://img.shields.io/badge/Blender-3.1.0-green" /> <img src="https://img.shields.io/badge/Python-3.7-blue" /> <img src="https://img.shields.io/badge/Addon-0.0.1a-yellow" /> <img src="https://img.shields.io/badge/CAN-X567-red" />
 
 <table>
 <tr>
