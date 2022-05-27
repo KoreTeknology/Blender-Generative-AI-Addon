@@ -5,7 +5,7 @@ A research based on *Artificial Intelligence* within Blender software, this is a
 
 ## Context & Vision
 
-My fist goal here is to provide a simple way to interact with the user data, in fact, we are talking about the methods that every users may define during his creation process. To do this, my plan is to create this addon, that keeps user history, tracks actions and return various types of contents. This can be archieved, creating a simple AI that can learn from the user and his favorite shortcuts, menu entries combos, and repeated errors.
+My fist goal here is to provide a simple way to interact with the user data, in fact, we are talking about the methods that every users may define during his creation process. To do this, my plan is to create this addon, that keeps user history, tracks actions and return various types of contents. This can be achieved, creating a simple AI that can learn from the user and his favorite shortcuts, menu entries combos, and repeated errors.
 
 ---
 
@@ -89,7 +89,7 @@ My fist goal here is to provide a simple way to interact with the user data, in 
 
 ## Collecting Data from user experience
 
-- User profils and details
+- User profiles and details
 - User Actions-Chains and Combos-Series
 - User Undos/Redos recognization methods
 - User double Actions suspicious methods
@@ -98,7 +98,7 @@ My fist goal here is to provide a simple way to interact with the user data, in 
 
 ## Saving user data as Data collection
 
-- Many options: Structural, Lineal, Hierachical...
+- Many options: Structural, Lineal, Hierarchical...
 - Internal data, External files (new extension type?)
 
 ---
