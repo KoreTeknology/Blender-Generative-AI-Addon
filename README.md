@@ -9,6 +9,30 @@ My fist goal here is to provide a simple way to interact with the user data, in 
 
 ---
 
+## Collecting Data from user experience
+
+- User profils and details
+- User Actions-Chains and Combos-Series
+- User Undos/Redos recognization methods
+- User double Actions suspicious methods
+
+---
+
+## Saving user data as Data collection
+
+- Many options: Structural, Lineal, Hierachical...
+- Internal data, External files (new extension type?)
+
+---
+
+## User Interface Access
+
+- Bottom line (Important infos)
+- 3D View panel (N)
+- New editor window
+
+---
+
 <table>
 <tr>
 <th align="center", width="880">Data Types</th>
@@ -84,30 +108,6 @@ My fist goal here is to provide a simple way to interact with the user data, in 
         </ul>
       </li>
 </ul>
-
----
-
-## Collecting Data from user experience
-
-- User profils and details
-- User Actions-Chains and Combos-Series
-- User Undos/Redos recognization methods
-- User double Actions suspicious methods
-
----
-
-## Saving user data as Data collection
-
-- Many options: Structural, Lineal, Hierachical...
-- Internal data, External files (new extension type?)
-
----
-
-## User Interface Access
-
-- Bottom line (Important infos)
-- 3D View panel (N)
-- New editor window
 
 ---
 
