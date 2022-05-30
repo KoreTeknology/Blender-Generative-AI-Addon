@@ -113,12 +113,21 @@ My fist goal here is to provide a simple way to interact with the user data, in 
 
 ## Step 1
 
+The addon has 3 modes: Analyse/Support/Both
+
+- ANALYSE: write an external file
+- SUPPORT: suggest and fix
+- INTERACTIVE: both
+
 The addon write an external file from session start, including data from:
 
 - Every time the user is duplicating vertex without moving them
 - Every time an object has face´s oriention in wrong direction (inside)
 - Every time an object has a scale different then 1
 
+```diff
+- NOTE: ...
+```
 
 ---
 
