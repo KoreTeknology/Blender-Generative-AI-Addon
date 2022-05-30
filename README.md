@@ -111,6 +111,17 @@ My fist goal here is to provide a simple way to interact with the user data, in 
 
 ---
 
+## Step 1
+
+The addon write an external file from session start, including data from:
+
+- Every time the user is duplicating vertex without moving them
+- Every time an object has face´s oriention in wrong direction (inside)
+- Every time an object has a scale different then 1
+
+
+---
+
 ## Infos
 
 * Author: **Uriel Deveaud** - [Kore Teknology](https://github.com/KoreTeknology) 
