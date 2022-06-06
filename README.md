@@ -64,6 +64,12 @@ My fist goal here is to provide a simple way to interact with the user data, in 
           <li>What is the most needed skill by user type</li>
         </ul>
       </li>
+       <li><b>user Project Types</b>
+        <ul>
+          <li>What is the project types? Architecture, Industrial Design, etc...</li>
+          <li>What is graphical type associated with the project? Realistic scene, cartoon, etc...</li>
+        </ul>
+      </li>
 </ul>
 
 <table>
