@@ -8,9 +8,10 @@ A research script based on *Artificial Intelligence* for Blender, this is a mult
 ## Features in progress
 
 - Image API generation (using a new Node Editor window)
-- Single or multiple Image rendering
-- Save single image or batch "to disk" or "in File"
-- Script 2 Prompt conversion custom node
+- ComfyUI Server connection for local sessions
+- Single image and Images sequence rendering/storing
+- Custom checkpoints, LoRas, VAE loading
+- Script-2-Prompt GPT-2 based custom node
 
 ---
 
