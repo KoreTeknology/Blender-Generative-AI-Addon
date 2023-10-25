@@ -10,7 +10,7 @@ A research script based on *Artificial Intelligence* for Blender, this is a mult
 - Image API generation (using a new Node Editor window)
 - ComfyUI Server connection for local sessions
 - Single image and Images sequence rendering/storing
-- Custom checkpoints, LoRas, VAE loading
+- Custom checkpoints, LoRas, VAE loading nodes
 - Script-2-Prompt GPT-2 based custom node
 
 ---
@@ -24,9 +24,8 @@ A research script based on *Artificial Intelligence* for Blender, this is a mult
 
 ## User Interface Access
 
-- New editor window
-- Intelligent Nodes panel (N)
-
+- New nodes editor window
+- RUN/LEARN Nodes panels (N)
 ---
 
 <table>
