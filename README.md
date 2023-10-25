@@ -16,7 +16,7 @@ Licensed under GNU General Public License v3.0
 ## Features in progress
 
 - Image API generation (using a new **Node Editor** window)
-- **ComfyUI Server** connection for local sessions ([ComfyUI](https://github.com/comfyanonymous/ComfyUI) via [Stability Matrix](https://github.com/LykosAI/StabilityMatrix) )
+- **ComfyUI Server** connection for local sessions ([ComfyUI](https://github.com/comfyanonymous/ComfyUI) via [Stability Matrix](https://github.com/LykosAI/StabilityMatrix) ) PC Only!
 - **Stable diffusion models** custom nodes, support *SD 1.5*, *2.0* and *XL 1.0*
 - **Processing** Single images and Image sequences, **rendering/storing**
 - **Custom** checkpoints, LoRas, VAE loading nodes
