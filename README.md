@@ -7,11 +7,12 @@ A research script based on *Artificial Intelligence* for Blender, this is a mult
 
 ## Features in progress
 
-- Image API generation (using a new Node Editor window)
-- ComfyUI Server connection for local sessions
-- Single image and Images sequence rendering/storing
-- Custom checkpoints, LoRas, VAE loading nodes
-- Script-2-Prompt GPT-2 based custom node
+- Image API generation (using a new **Node Editor** window)
+- **ComfyUI Server** connection for local sessions
+- **Stable diffusion models** custom node
+- Single image and Images sequence **rendering/storing**
+- **Custom** checkpoints, LoRas, VAE loading nodes
+- **Script-2-Prompt** GPT-2 based custom node
 
 ---
 
