@@ -125,19 +125,12 @@ Gui related:
 
 ---
 
-## Step 1
+## LLM Structure
 
-The addon has 3 modes: Analyse/Support/Both
+The addon has 3 modes: Analyse/Store/write, external file from session start.
 
 - ANALYSE: write an external file
-- SUPPORT: suggest and fix
-- INTERACTIVE: both
-
-The addon write an external file from session start, including data from:
-
-- Every time the user is duplicating vertex without moving them
-- Every time an object has face´s oriention in wrong direction (inside)
-- Every time an object has a scale different then 1
+- STORE: Model
 
 ```diff
 - NOTE: ...
