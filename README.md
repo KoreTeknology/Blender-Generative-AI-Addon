@@ -1,5 +1,5 @@
 # Blender Generative AI Addon
-A research based on *Artificial Intelligence* within Blender software, this is a multi-steps development project, with **LLM Local System** focus in mind. This script/addon is intended to serve the purpose to generate images within Blender Nodes Editor. 
+A research based on *Artificial Intelligence* within Blender software, this is a multi-steps development project, with **LLM Local System** focus in mind. This script/addon is intended to serve the purpose to generate unique images and video sequences, within Blender Nodes Editor and based on Public Checkpoint Models OR/AND Private custom Models and LoRas. 
 
 <img src="https://img.shields.io/badge/Blender-3.6.5-green" /> <img src="https://img.shields.io/badge/Python-3.7-blue" /> <img src="https://img.shields.io/badge/Addon-0.0.1a-yellow" /> <img src="https://img.shields.io/badge/CAN-X.1567D-red" />
 
@@ -23,9 +23,8 @@ A research based on *Artificial Intelligence* within Blender software, this is a
 
 ## User Interface Access
 
-- Bottom line (Important infos)
-- 3D View panel (N)
 - New editor window
+- Intelligent Nodes panel (N)
 
 ---
 
