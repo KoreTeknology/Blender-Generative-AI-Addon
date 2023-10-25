@@ -79,10 +79,11 @@ Collecting user data and processing it locally allows you to create personalized
 
 ## LLM Structure
 
-The addon has 3 modes: Analyse/Store/write, external file from session start.
+The addon has 3 modes: Analyse/Prepare/Write, external file from session start.
 
 - ANALYSE: write an external file
-- STORE: Model
+- PREPARE: images data
+- WRITE: .ckpt/tensors
 
 ```diff
 - NOTE: ...
