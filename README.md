@@ -1,7 +1,13 @@
 # Blender Generative AI Addon
 A research script based on *Artificial Intelligence* for Blender, this is a multi-steps development project, with **LLM Local System** focus in mind. This script/addon is intended to serve the purpose to *generate unique images and video sequences*, within **Blender Nodes Editor** and based on Public Checkpoint Models OR/AND **Private custom Models and LoRas**. 
 
-<img src="https://img.shields.io/badge/Blender-3.6.5-green" /> <img src="https://img.shields.io/badge/Python-3.7-blue" /> <img src="https://img.shields.io/badge/Addon-0.8.1a-yellow" /> <img src="https://img.shields.io/badge/CAN-X.1567D-red" />
+<img src="https://img.shields.io/badge/Blender-3.6.5/4-green" /> <img src="https://img.shields.io/badge/Python-3.8-blue" /> <img src="https://img.shields.io/badge/Addon-0.8.1a-yellow" /> <img src="https://img.shields.io/badge/CAN-X.1567D-red" />
+
+```py
+NOTE: This project is derived from the K.Sharon & Yorha4D project, called "ComfyUI-BlenderAI-node".
+Link: https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node
+Licensed under GNU General Public License v3.0
+```
 
 ---
 
