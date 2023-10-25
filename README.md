@@ -3,6 +3,8 @@ A research script based on *Artificial Intelligence* for Blender, this is a mult
 
 <img src="https://img.shields.io/badge/Blender-3.6.5/4-green" /> <img src="https://img.shields.io/badge/Python-3.8-blue" /> <img src="https://img.shields.io/badge/Addon-0.8.1a-yellow" /> <img src="https://img.shields.io/badge/CAN-X.1567D-red" />
 
+## Acknowledgments
+
 ```py
 NOTE: This project is derived from the K.Sharon & Yorha4D project, called "ComfyUI-BlenderAI-node".
 Link: https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node
