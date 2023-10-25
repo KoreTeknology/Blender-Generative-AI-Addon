@@ -27,7 +27,7 @@ Licensed under GNU General Public License v3.0
 
 ---
 
-## Saving user data as Data collection
+## Saving user data as Data collection?
 
 - Many options: Structural, Lineal, Hierachical...
 - Internal data, External files (new extension type?)
