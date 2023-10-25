@@ -138,19 +138,6 @@ The addon has 3 modes: Analyse/Store/write, external file from session start.
 
 ---
 
-## LLM Structure
-
-The addon has 3 modes: Analyse/Store/write, external file from session start.
-
-- ANALYSE: write an external file
-- STORE: Model
-
-```diff
-- NOTE: ...
-```
-
----
-
 ## Infos
 
 * Author: **Uriel Deveaud** - [Kore Teknology](https://github.com/KoreTeknology) 
