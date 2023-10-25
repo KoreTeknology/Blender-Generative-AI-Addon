@@ -22,14 +22,8 @@ Licensed under GNU General Public License v3.0
 - **Custom** checkpoints, LoRas, VAE loading nodes
 - **Script-2-Prompt** GPT-2 based custom nodes
 - image-2-**Images-Sequence_Strip** option
-- Presets collection > **new panel**
-
----
-
-## User Interface Access
-
-- New nodes editor window
-- RUN/LEARN Nodes panels (N)
+- **Preferences** Panel (Server Options)
+- **NodeTree Editor Tools** Panel (N) with Presets collection
 
 ---
 
