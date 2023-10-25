@@ -39,7 +39,20 @@ Gui related:
 
 - New nodes editor window
 - RUN/LEARN Nodes panels (N)
+
 ---
+
+## LLM Structure
+
+The addon has 3 modes: Analyse/Store/write, external file from session start.
+
+- ANALYSE: write an external file
+- STORE: Model
+
+```diff
+- NOTE: ...
+```
+
 
 <table>
 <tr>
