@@ -22,7 +22,7 @@ Licensed under GNU General Public License v3.0
 - **Processing** Text-2-Single images and Image sequences, **rendering/storing**
 - **Processing** Script-2-Prompt GPT-2 based custom nodes
 - **Processing** image-2-**Images-Sequence_Strip** option
-- **Preferences** Panel (Server, Options)
+- **Preferences** Panel (Server Settings, LLM Settings, Options)
 - **NodeTree Editor Tools** Panel (N) with Presets collection
 
 ---
