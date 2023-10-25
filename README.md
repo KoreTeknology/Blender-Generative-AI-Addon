@@ -30,7 +30,48 @@ Licensed under GNU General Public License v3.0
 ## Saving user data as Data collection?
 
 - Many options: Structural, Lineal, Hierachical...
-- Internal data, External files (new extension type?)
+- Json files storage path
+
+Collecting user data and processing it locally allows you to create personalized artistic and technical models, ready to be used in a new nodetree.
+
+<table>
+<tr>
+<th align="center", width="100%">Data Types</th>
+</tr>
+</table>
+
+<ul>
+      <li><b>Actions History</b>
+        <ul>
+          <li>What is the last action done by a specific user?</li>
+          <li>What is the most repeating actions?</li>
+        </ul>
+      </li>
+      <li><b>Space Orbits</b>
+        <ul>
+          <li>What is the mid distance from the object origin in edit mode?</li>
+          <li>What is the mid distance of action from the world origin?</li>
+        </ul>
+      </li>
+      <li><b>Time Sequences</b>
+        <ul>
+          <li>What is the mid time between same actions?</li>
+          <li>What is the time between same files edition?</li>
+        </ul>
+  </li>
+      <li><b>User Types</b>
+        <ul>
+          <li>What is the skills level of a specific user?</li>
+          <li>What is the most needed skill by user type</li>
+        </ul>
+      </li>
+       <li><b>user Project Types</b>
+        <ul>
+          <li>What is the project types? Architecture, Industrial Design, etc...</li>
+          <li>What is graphical type associated with the project? Realistic scene, cartoon, etc...</li>
+        </ul>
+      </li>
+</ul>
 
 ---
 
