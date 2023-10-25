@@ -13,7 +13,7 @@ Licensed under GNU General Public License v3.0
 
 ---
 
-## Features in progress
+## Updated Features in progress
 
 - Image API generation (using a new **Node Editor** window)
 - **ComfyUI Server** connection for local sessions ([ComfyUI](https://github.com/comfyanonymous/ComfyUI) via [Stability Matrix](https://github.com/LykosAI/StabilityMatrix) ) PC Only!
