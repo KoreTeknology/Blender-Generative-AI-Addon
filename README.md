@@ -18,11 +18,11 @@ Licensed under GNU General Public License v3.0
 - Image API generation (using a new **Node Editor** window)
 - **ComfyUI Server** connection for local sessions ([ComfyUI](https://github.com/comfyanonymous/ComfyUI) via [Stability Matrix](https://github.com/LykosAI/StabilityMatrix) ) PC Only!
 - **Stable diffusion models** custom nodes, support *SD 1.5*, *2.0* and *XL 1.0*
-- **Processing** Single images and Image sequences, **rendering/storing**
 - **Custom** checkpoints, LoRas, VAE loading nodes
-- **Script-2-Prompt** GPT-2 based custom nodes
-- image-2-**Images-Sequence_Strip** option
-- **Preferences** Panel (Server Options)
+- **Processing** Text-2-Single images and Image sequences, **rendering/storing**
+- **Processing** Script-2-Prompt GPT-2 based custom nodes
+- **Processing** image-2-**Images-Sequence_Strip** option
+- **Preferences** Panel (Server, Options)
 - **NodeTree Editor Tools** Panel (N) with Presets collection
 
 ---
