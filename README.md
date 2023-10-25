@@ -17,27 +17,11 @@ Licensed under GNU General Public License v3.0
 - **ComfyUI Server** connection for local sessions
 - **Stable diffusion models** custom node
 - Single image and Images sequence **rendering/storing**
+- **Processing** console Logs
 - **Custom** checkpoints, LoRas, VAE loading nodes
 - **Script-2-Prompt** GPT-2 based custom node
-
----
-
-## New features(Alpha stage)
-
-Video editor related:
-- save images and "Add task result as an images sequence strip"
-
-Gui related:
-- Presets collection as a panel deroulant
-- Reload presets collection button
-- clear logs button
-
----
-
-## Saving user data as Data collection
-
-- Many options: Structural, Lineal, Hierachical...
-- Internal data, External files (new extension type?)
+- **Images-Sequence_Strip**
+- Presets collection > **new panel**
 
 ---
 
@@ -45,6 +29,13 @@ Gui related:
 
 - New nodes editor window
 - RUN/LEARN Nodes panels (N)
+
+---
+
+## Saving user data as Data collection
+
+- Many options: Structural, Lineal, Hierachical...
+- Internal data, External files (new extension type?)
 
 ---
 
