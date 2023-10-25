@@ -1,20 +1,16 @@
 # Blender Generative AI Addon
-A research based on *Artificial Intelligence* within Blender software, this is a multi-steps development project, with **System Learning** focus in mind. This script/addon is intended to serve the purpose to analyse user actions and submit various infos in return along the learning path.
+A research based on *Artificial Intelligence* within Blender software, this is a multi-steps development project, with **LLM Local System** focus in mind. This script/addon is intended to serve the purpose to generate images within Blender Nodes Editor. 
 
 <img src="https://img.shields.io/badge/Blender-3.6.5-green" /> <img src="https://img.shields.io/badge/Python-3.7-blue" /> <img src="https://img.shields.io/badge/Addon-0.0.1a-yellow" /> <img src="https://img.shields.io/badge/CAN-X.1567D-red" />
 
-## Context & Vision
-
-My fist goal here is to provide a simple way to interact with the user data, in fact, we are talking about the methods that every users may define during his creation process. To do this, my plan is to create this addon, that keeps user history, tracks actions and return various types of contents. This can be archieved, creating a simple AI that can learn from the user and his favorite shortcuts, menu entries combos, and repeated errors.
-
 ---
 
-## Collecting Data from user experience
+## Features in progress
 
-- User profils and details
-- User Actions-Chains and Combos-Series
-- User Undos/Redos recognization methods
-- User double Actions suspicious methods
+- Image API generation (using a new Node Editor window)
+- Single or multiple Image rendering
+- Save single image or batch "to disk" or "in File"
+- Script 2 Prompt conversion custom node
 
 ---
 
