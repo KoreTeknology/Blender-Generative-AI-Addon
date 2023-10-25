@@ -91,45 +91,6 @@ The addon has 3 modes: Analyse/Store/write, external file from session start.
 
 <table>
 <tr>
-<th align="center", width="880">Data Types</th>
-</tr>
-</table>
-
-<ul>
-      <li><b>Actions History</b>
-        <ul>
-          <li>What is the last action done by a specific user?</li>
-          <li>What is the most repeating actions?</li>
-        </ul>
-      </li>
-      <li><b>Space Orbits</b>
-        <ul>
-          <li>What is the mid distance from the object origin in edit mode?</li>
-          <li>What is the mid distance of action from the world origin?</li>
-        </ul>
-      </li>
-      <li><b>Time Sequences</b>
-        <ul>
-          <li>What is the mid time between same actions?</li>
-          <li>What is the time between same files edition?</li>
-        </ul>
-  </li>
-      <li><b>User Types</b>
-        <ul>
-          <li>What is the skills level of a specific user?</li>
-          <li>What is the most needed skill by user type</li>
-        </ul>
-      </li>
-       <li><b>user Project Types</b>
-        <ul>
-          <li>What is the project types? Architecture, Industrial Design, etc...</li>
-          <li>What is graphical type associated with the project? Realistic scene, cartoon, etc...</li>
-        </ul>
-      </li>
-</ul>
-
-<table>
-<tr>
 <th align="center", width="880">Data Processing</th>
 </tr>
 </table>
