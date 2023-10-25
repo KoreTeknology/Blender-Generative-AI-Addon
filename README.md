@@ -8,7 +8,7 @@ A research script based on *Artificial Intelligence* for Blender, this is a mult
 ```py
 NOTE: This project is derived from the K.Sharon & Yorha4D project, called "ComfyUI-BlenderAI-node".
 Link: https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node
-Licensed under GNU General Public License v3.0
+Release: 1.2.9 - Licensed under GNU General Public License v3.0
 ```
 
 ---
