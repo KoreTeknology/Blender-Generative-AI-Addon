@@ -136,7 +136,7 @@ The addon write an external file from session start, including data from:
 
 * Author: **Uriel Deveaud** - [Kore Teknology](https://github.com/KoreTeknology) 
 
-<img src="https://img.shields.io/badge/CG Art-1995-red" /> <img src="https://img.shields.io/badge/3D Blender-2002-red" /> <img src="https://img.shields.io/badge/Python Dev-2005-red" /> <img src="https://img.shields.io/badge/3D Trainer-2008-red" /> <img src="https://img.shields.io/badge/Coding Trainer-2010-red" /> <img src="https://img.shields.io/badge/GE-2015-darkorange" /> <img src="https://img.shields.io/badge/VR-2017-darkorange" /> <img src="https://img.shields.io/badge/AI-2020-darkorange" />
+<img src="https://img.shields.io/badge/CG Art-red" /> <img src="https://img.shields.io/badge/3D Blender-red" /> <img src="https://img.shields.io/badge/Python Dev-red" /> <img src="https://img.shields.io/badge/3D Trainer-red" /> <img src="https://img.shields.io/badge/Coding Trainer-red" /> <img src="https://img.shields.io/badge/GE-darkorange" /> <img src="https://img.shields.io/badge/VR-darkorange" /> <img src="https://img.shields.io/badge/AI-darkorange" />
 
 * License: This project is released under the GPL License.
 * This work is dedicated to all Blender users ;)
