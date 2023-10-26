@@ -1,4 +1,4 @@
-TODO LIST 0.6
+TODO LIST 1.3.6
 
 ## Features
 - [x] Cleaning Fork files and translating Chinese :)
@@ -12,3 +12,11 @@ TODO LIST 0.6
 - [x] Custom Toools panel and History Panel
 - [ ] Update the history panel > V1.0.0
 - [ ] Update the preferences panel > V1.0.0
+
+---
+
+## Learning
+- [ ] Path to learning script (menu, list)
+- [ ] Path to images folder
+- [ ] Path to saved model
+- [ ] LLM Parameters
