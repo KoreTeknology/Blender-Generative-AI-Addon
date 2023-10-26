@@ -27,38 +27,13 @@ Release: 1.2.9 - Licensed under GNU General Public License v3.0
 - **Preferences** Panel (Server Settings, LLM Settings, Options)
 - **NodeTree Editor Tools** Panel (N) with Presets collection
 
-[> See Todo list](TODO_LIST.md)
+### Tested Models: [See Models List](TESTED_MODELS.md)
+
+### Todo List: [See next steps development phases](TODO_LIST.md)
+
+
 
 <img alt="preview_v135" src="/media/addon_preview_v125.png">
-
----
-
-## Tested Models
-
-In order to check the compatibility of public models, we will use here the models available on [CivitAi](https://civitai.com/) and [HuggingFace](https://huggingface.co/models).
-
-<ul>
-      <li><b>Checkpoints</b>
-        <ul>
-          <li><a href="https://huggingface.co/CompVis/stable-diffusion-v1-4">Stable Diffusion 1.4</a></li>
-          <li><a href="https://huggingface.co/runwayml/stable-diffusion-v1-5">Stable Diffusion 1.5 (pruned-noVae)</a></li>
-          <li><a href="https://huggingface.co/stabilityai/stable-diffusion-2-1">Stable Diffusion 2.1</a></li>
-          <li><a href="https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0">Stable Diffusion XL Base 1.0</a></li>
-        </ul>
-      </li>
-      <li><b>LoRas</b>
-        <ul>
-          <li>---</li>
-          <li>---</li>
-        </ul>
-      </li>
-      <li><b>Vae</b>
-        <ul>
-          <li>---</li>
-          <li>---</li>
-        </ul>
-  </li>
-</ul>
 
 ---
 
