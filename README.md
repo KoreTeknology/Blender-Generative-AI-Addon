@@ -38,12 +38,12 @@ Release: 1.2.9 - Licensed under GNU General Public License v3.0
 
 ---
 
-## Saving user data as Data collection?
+## Learning from users, saving data as collection?
 
+Objectives: Collecting user data and processing it locally allows you to create personalized artistic and technical models, ready to be used in a new nodetree.
 - Many options: Structural, Lineal, Hierachical...
 - Json files storage path
 
-Collecting user data and processing it locally allows you to create personalized artistic and technical models, ready to be used in a new nodetree.
 
 <table>
 <tr>
