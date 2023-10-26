@@ -3,52 +3,43 @@ A research script based on *Artificial Intelligence* for Blender, this is a mult
 
 <img src="https://img.shields.io/badge/Blender-3.6.5/4-green" /> <img src="https://img.shields.io/badge/Python-3.8-blue" /> <img src="https://img.shields.io/badge/Addon-0.8.1a-yellow" /> <img src="https://img.shields.io/badge/CAN-X.1567D-red" />
 
+
+
 ## Acknowledgments
 
 ```py
 NOTE: This project is derived from the K.Sharon & Yorha4D project, called "ComfyUI-BlenderAI-node".
 Link: https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node
-Licensed under GNU General Public License v3.0
+Release: 1.2.9 - Licensed under GNU General Public License v3.0
 ```
 
 ---
 
-## Features in progress
+## Updated Features in progress
 
 - Image API generation (using a new **Node Editor** window)
 - **ComfyUI Server** connection for local sessions ([ComfyUI](https://github.com/comfyanonymous/ComfyUI) via [Stability Matrix](https://github.com/LykosAI/StabilityMatrix) ) PC Only!
 - **Stable diffusion models** custom nodes, support *SD 1.5*, *2.0* and *XL 1.0*
-- **Custom** checkpoints, LoRas, VAE loading nodes
+- **Custom** checkpoints, LoRas, VAE loading/merging nodes
 - **Processing** Text-2-Single images and Image sequences, **rendering/storing**
 - **Processing** Script-2-Prompt GPT-2 based custom nodes
 - **Processing** image-2-**Images-Sequence_Strip** option
 - **Preferences** Panel (Server Settings, LLM Settings, Options)
 - **NodeTree Editor Tools** Panel (N) with Presets collection
+- [Todo list](TODO_LIST.md)
 
 ---
 
 ## Saving user data as Data collection?
 
 - Many options: Structural, Lineal, Hierachical...
-- Internal data, External files (new extension type?)
+- Json files storage path
 
----
-
-## LLM Structure
-
-The addon has 3 modes: Analyse/Store/write, external file from session start.
-
-- ANALYSE: write an external file
-- STORE: Model
-
-```diff
-- NOTE: ...
-```
-
+Collecting user data and processing it locally allows you to create personalized artistic and technical models, ready to be used in a new nodetree.
 
 <table>
 <tr>
-<th align="center", width="880">Data Types</th>
+<th align="center", width="100%">Data Types</th>
 </tr>
 </table>
 
@@ -84,6 +75,21 @@ The addon has 3 modes: Analyse/Store/write, external file from session start.
         </ul>
       </li>
 </ul>
+
+---
+
+## LLM Structure
+
+The addon has 3 modes: Analyse/Prepare/Write, external file from session start.
+
+- ANALYSE: write an external file
+- PREPARE: images data
+- WRITE: .ckpt/tensors
+
+```diff
+- NOTE: ...
+```
+
 
 <table>
 <tr>
