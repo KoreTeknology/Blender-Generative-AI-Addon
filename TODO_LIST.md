@@ -1,7 +1,7 @@
 TODO LIST 1.3.6
 
 ## Features
-- [x] Cleaning Fork files and translating Chinese :)
+- [x] Cleaning Fork files and translating Chinese to English :)
 - [x] Re-arranging Original Gui (preferences, Editor panel)
 - [x] Storing Main models for general testing purpose
 - [x] Storing proof-of-concepts models for advanced templates
