@@ -1,5 +1,7 @@
 TODO LIST 1.3.6
 
+The first step is to carry out a study on the existing script, deduce the structure and make the necessary modifications to prepare for future development and integrations. We will analyze the contents of the python files and comment on the different functions in order to move, delete and update the scripts.
+
 ## Features
 - [x] Cleaning Fork files and translating Chinese to English :)
 - [x] Re-arranging Original Gui (preferences, Editor panel)
