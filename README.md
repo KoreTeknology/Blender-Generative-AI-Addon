@@ -28,6 +28,10 @@ Release: 1.2.9 - Licensed under GNU General Public License v3.0
 - **NodeTree Editor Tools** Panel (N) with Presets collection
 - [Todo list](TODO_LIST.md)
 
+<img alt="preview_v135" src="/media/addon_preview_v135.png">
+
+
+
 ---
 
 ## Saving user data as Data collection?
