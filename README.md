@@ -26,6 +26,7 @@ Release: 1.2.9 - Licensed under GNU General Public License v3.0
 - **Processing** image-2-**Images-Sequence_Strip** option
 - **Preferences** Panel (Server Settings, LLM Settings, Options)
 - **NodeTree Editor Tools** Panel (N) with Presets collection
+- [Todo list](TODO_LIST.md)
 
 ---
 
