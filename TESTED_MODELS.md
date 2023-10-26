@@ -25,3 +25,10 @@ In order to check the compatibility of public models, we will use here the model
   </li>
 </ul>
 
+|Models|Description|Status|Quality|Link|
+| ------------------------------------------------- | --- | --------- | :--------: |:-----------------------------------------: |
+| SD 1.4 | First Release| Required  | &#10069; | [Download](https://huggingface.co/CompVis/stable-diffusion-v1-4)|
+| SD 1.5                  | Classic Release| Permitted | &#10004; |[](https://huggingface.co/CompVis/stable-diffusion-v1-4)|
+| SD 2.1              | Maintened Version 2x| Forbidden | &#10006; ||
+| SD XL 1.0            |Last Stable Diffusion Release| Permitted | &#10004; |[Download](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)|
+
