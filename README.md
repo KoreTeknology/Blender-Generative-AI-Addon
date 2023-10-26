@@ -23,6 +23,7 @@ Release: 1.2.9 - Licensed under GNU General Public License v3.0
 - **Custom** checkpoints, LoRas, VAE loading/merging nodes
 - **Processing** Text-2-Single images and Image sequences, **rendering/storing**
 - **Processing** Script-2-Prompt GPT-2 based custom nodes
+- **Processing** **3D scene**-2-rendered image custom nodes
 - **Processing** image-2-**Images-Sequence_Strip** option
 - **Preferences** Panel (Server Settings, LLM Settings, Options)
 - **NodeTree Editor Tools** Panel (N) with Presets collection
