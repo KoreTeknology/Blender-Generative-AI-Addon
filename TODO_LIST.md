@@ -6,6 +6,8 @@ TODO LIST 1.3.6
 - [x] Storing Main models for general testing purpose
 - [x] Storing proof-of-concepts models for advanced templates
 - [ ] New tools panel: Run the learning process, options
+- [ ] Text-2-voices processing
+- [ ] Text-2-Music processing
 
 ## Gui
 - [x] Custom window area: NEW nodes editor type
