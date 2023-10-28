@@ -40,7 +40,7 @@ Release: 1.2.9 - Licensed under GNU General Public License v3.0
 
 ## ComfyUI Installation and Modules
 
-After installing ComfyUI with your prefered plateform (i am using Stability Matrix), make sure you install the additional modules. To Install these modules, open a CMD window in the \ComfyUI\custom_nodes folder. And "git clone" each one of them. By adding the link after "git clone".
+After installing **ComfyUI** with your prefered plateform (i am using **Stability Matrix**), make sure you install the additional modules. To install these modules, open a CMD window in the \ComfyUI\custom_nodes folder. And "git clone" each one of them. By adding the link after "git clone".
 
 - ComfyUi-Manager
 - [ComfyUI-Impact](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
