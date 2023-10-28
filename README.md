@@ -15,7 +15,7 @@ Release: 1.2.9 - Licensed under GNU General Public License v3.0
 
 ---
 
-## Updated Features in progress
+## Features & Updates
 
 *Updated: 26/10/2023*
 
