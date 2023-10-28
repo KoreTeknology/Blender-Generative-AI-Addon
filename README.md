@@ -43,8 +43,8 @@ Release: 1.2.9 - Licensed under GNU General Public License v3.0
 After installing ComfyUI with your prefered plateform (i am using Stability Matrix), make sure you install the additional modules. To Install these modules, open a CMD window in the \ComfyUI\custom_nodes folder. And "git clone" each one of them. By adding the link after "git clone".
 
 - ComfyUi-Manager
-- ComfyUI-Impact
-- ComfyUI-Inspire
+- [ComfyUI-Impact](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
+- [ComfyUI-Inspire](https://github.com/ltdrdata/ComfyUI-Inspire-Pack)
 - WAS Nodes Suite
 - Animate Diff
 - Prompt-Expansion
