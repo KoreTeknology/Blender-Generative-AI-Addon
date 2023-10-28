@@ -161,7 +161,7 @@ The addon has 3 modes: Analyse/Prepare/Write, external file from session start.
 
 * Author: **Uriel Deveaud** - [Kore Teknology](https://github.com/KoreTeknology) 
 
-<img src="https://img.shields.io/badge/CG Art-red" /> <img src="https://img.shields.io/badge/3D Blender-red" /> <img src="https://img.shields.io/badge/Python Dev-red" /> <img src="https://img.shields.io/badge/3D Trainer-red" /> <img src="https://img.shields.io/badge/Coding Trainer-red" /> <img src="https://img.shields.io/badge/GE-darkorange" /> <img src="https://img.shields.io/badge/VR-darkorange" /> <img src="https://img.shields.io/badge/AI-darkorange" />
+<img src="https://img.shields.io/badge/CG Art-red" /> <img src="https://img.shields.io/badge/3D Blender-red" /> <img src="https://img.shields.io/badge/Python Dev-red" /> <img src="https://img.shields.io/badge/GAME Engine-darkorange" /> <img src="https://img.shields.io/badge/VR Environmental-darkorange" /> <img src="https://img.shields.io/badge/AI Training-darkorange" />
 
 * License: This project is released under the GPL License.
 * This work is dedicated to all Blender users ;)
