@@ -13,6 +13,11 @@ Link: https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node
 Release: 1.2.9 - Licensed under GNU General Public License v3.0
 ```
 
+*"I decided to re-write this addon for several reasons. The first was that the original translation was in Chinese and that some errors appeared due to non-standard characters. The second was that the interface deserved to be redesigned to integrate into my workflow. The third was that I wanted to add functions for animation and the video sequencer. And the last because I couldn't contact the developers of the project and offer my collaboration."*
+
+<img alt="Win 11" src="/media/win11_logo.png" width="90">
+
+
 ---
 
 ## Features & Updates
