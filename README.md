@@ -6,7 +6,7 @@ A research script based on *Artificial Intelligence* for Blender[^1], this is a 
 
 ```diff
 !!! This documentation is in progress !!!
-the code release will be uploaded as soon as the package is ready, stay tuned...
+the code release will be uploaded as soon as the complete package is ready, stay tuned...
 ```
 
 ## :radio_button: Acknowledgments
