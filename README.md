@@ -22,8 +22,6 @@ Release: 1.2.9 - Licensed under GNU General Public License v3.0
 
 ## Features & Updates
 
-*Updated: 26/10/2023*
-
 - Image API generation (using a NEW **Node Editor** window)
 - **ComfyUI Server** connection for local sessions ([ComfyUI](https://github.com/comfyanonymous/ComfyUI) via [Stability Matrix](https://github.com/LykosAI/StabilityMatrix) ) PC Only!
 - **Stable diffusion models** custom nodes, support *SD 1.5*, *2.0* and *XL 1.0* ([See tested Models List](TESTED_MODELS.md))
@@ -35,7 +33,7 @@ Release: 1.2.9 - Licensed under GNU General Public License v3.0
 - **Preferences** Panel (Server Settings, LLM Settings, Options)
 - **NodeTree Editor Tools** Panel (N) with Presets collection
 
-### Todo List: [See next steps development phases](TODO_LIST.md)
+### Todo List: [See next steps development phases](TODO_LIST.md) *Updated: 26/10/2023*
 
 
 
