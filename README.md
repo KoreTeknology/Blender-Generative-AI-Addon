@@ -77,6 +77,26 @@ After installing **ComfyUI** with your prefered plateform (i am using **Stabilit
 
 ---
 
+## Presets, Templates and Snippets
+
+The addon offers 2 types of presets, full nodetrees and node groups. When the user saves a preet, it is automatically kept in specific folders. This allows, among other things, to share your “workflows” or nodetrees with other users. Here is the list of presets provided in this addon and their usage:
+
+- **Basic setups**
+  - Simple text-2-image
+  - Advanced text-2-image
+  - Simple image-2-image
+  - Advanced image-2-image
+- **Advanced setups**
+  - LoRas Merging
+  - VAEs Merging
+  - Complex text-2-image
+  - Complex image-2-image
+- **Animation setups**
+  - Basic images Sequence
+  - Advanced images sequence
+- **Film making setups**
+  - VFX movie (Inpaint)
+
 
 ## Learning from users, saving data as collection?
 
