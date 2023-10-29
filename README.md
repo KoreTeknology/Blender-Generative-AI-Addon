@@ -14,6 +14,7 @@ the code release will be uploaded as soon as the package is ready, stay tuned...
 ```py
 NOTE: This project is derived from the K.Sharon & Yorha4D work, called "ComfyUI-BlenderAI-node".
 Link: https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node
+Users: https://github.com/Yorha4D & https://github.com/KarryCharon
 Release: 1.2.9 - Licensed under GNU General Public License v3.0
 ```
 
