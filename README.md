@@ -20,7 +20,7 @@ Release: 1.2.9 - Licensed under GNU General Public License v3.0
 
 ## :radio_button: Objectives
 
-The objectives of this project are to offer different digital creation tools, using Blender as the main platform. At a time when Blender 4x is in the process of being officially released, the main goal is to deliver this addon as soon as this new version of our favorite software is released. Here is a non-exhaustive list of planned functions:
+The objectives of this project are to offer different digital creation tools, using Blender as the main platform. At a time when Blender 4x is in the process of being officially released, the main goal is to deliver this addon as soon as this new version of our favorite software is released. Here is a non-exhaustive list of planned features:
 
 - **Create images from prompts (background image, textures, hdri, titles)**
 - **Create images from images (styles, tones, themes)**
