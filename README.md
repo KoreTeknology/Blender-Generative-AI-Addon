@@ -41,6 +41,17 @@ Release: 1.2.9 - Licensed under GNU General Public License v3.0
 
 ---
 
+## Objectives
+
+The objectives of this project are to offer different digital creation tools, using Blender as the main platform. Here is a non-exhaustive list of planned functions:
+
+- **Create images from prompts (background image, textures, hdri, titles)**
+- **Create texts from prompts (subtitles)**
+- **Create images sequences (video strips, animations)**
+- **Create audio strips (Voices, music themes)**
+
+---
+
 ## ComfyUI Installation and Modules
 
 After installing **ComfyUI** with your prefered plateform (i am using **Stability Matrix**), make sure you install the additional modules. To install these modules, open a CMD window in the \ComfyUI\custom_nodes folder. And "git clone" each one of them. By adding the link after "git clone".
