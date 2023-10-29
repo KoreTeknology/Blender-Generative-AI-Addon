@@ -1,6 +1,6 @@
 <img alt="preview_v135" src="/media/header_addon.png">
 
-A research script based on *Artificial Intelligence* for Blender[^1], this is a multi-steps development project, with **LLM Local System**[^2] focus in mind. This script/addon is intended to serve the purpose to *generate unique images and video sequences*, within **Blender Nodes Editor** and based on Public Checkpoint Models[^3] OR/AND **Private custom Models and LoRas**. It includes an integrated learning machine process as well as a workflows exporter script.
+A research script based on *Artificial Intelligence* for Blender[^1], this is a multi-steps development project, with **LLM Local System**[^2] focus in mind. This script/addon is intended to serve the purpose to *generate unique images and video sequences*, within **Blender Nodes Editor** and based on Public Checkpoint Models[^3] OR/AND **Private custom Models and LoRas**[^4]. It includes an integrated learning machine process as well as a workflows exporter script.
 
 <img src="https://img.shields.io/badge/Windows-11-purple" /> <img src="https://img.shields.io/badge/Blender-3.6.5/4-c11b3f" /> <img src="https://img.shields.io/badge/Python-3.10-blue" /> <img src="https://img.shields.io/badge/Addon-3.6.5-yellow" /> <img src="https://img.shields.io/badge/CAN-X.1567D-943585" /> <img src="https://img.shields.io/badge/BL-GAIA-943585" />
 
@@ -220,3 +220,5 @@ The addon has 3 modes: Analyse/Prepare/Write, external file from session start.
 [^2]: Large language models (LLM) are very large deep learning models that are pre-trained on vast amounts of data. The underlying transformer is a set of neural networks that consist of an encoder and a decoder with self-attention capabilities.
 
 [^3]: Checkpoints are snapshots of your working model during the training process and stores it in a non-volatile memory. In machine learning and deep learning experiments, they are essentially the things which one uses to save the current state of the model so that one can pick up from where they left.
+
+[^4]: LoRA (Low Rank Adaptation) is a new technique for fine-tuning deep learning models that works by reducing the number of trainable parameters and enables efficient task switching.
