@@ -209,11 +209,8 @@ The addon has 3 modes: Analyse/Prepare/Write, external file from session start.
 ## :radio_button: Infos
 
 * Author: **Uriel Deveaud** - [Kore Teknology](https://github.com/KoreTeknology) 
-
-<img src="https://img.shields.io/badge/CG Art-grey" /> <img src="https://img.shields.io/badge/3D Blender-red" /> <img src="https://img.shields.io/badge/Python Dev-red" /> <img src="https://img.shields.io/badge/GAME Engine-darkorange" /> <img src="https://img.shields.io/badge/VR Environmental-darkorange" /> <img src="https://img.shields.io/badge/AI Training-darkorange" />
-
 * License: This project is released under the GPL License.
-* This work is dedicated to all Blender users ;)
+* This work is dedicated to all Blender users around the world ;)
 
 [^1]: **Blender** is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation. Please, visit the [Blender Official Website](https://www.blender.org/).
 
