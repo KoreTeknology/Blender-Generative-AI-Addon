@@ -64,6 +64,21 @@ After installing **ComfyUI** with your prefered plateform (i am using **Stabilit
 - Prompt-Expansion
 - [Derfuu-ComfyUI_ModdedNodes](https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes)
 
+---
+
+## Blender Addon Installation
+
+- Go to the user preferences screen (Edit -> User Preferences…).
+- Select the “Addons” tab.
+- Click “Install from File…” and select the downloaded zip file.
+- Click the checkbox on the left to enable the add-on.
+- Click “Save User Settings” to make sure the addon is enabled when you restart Blender.
+- Set the parameters to fit your GPU system and paths.
+- Open the new nodes editor, and press N to open the addon panel.
+- Start generating contents :)
+
+---
+
 
 ## Learning from users, saving data as collection?
 
