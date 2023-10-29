@@ -75,7 +75,7 @@ After installing [**ComfyUI**](https://github.com/comfyanonymous/ComfyUI) with y
 - Click “Save User Settings” to make sure the addon is enabled when you restart Blender.
 - Set the parameters to fit your GPU system and paths.
 - Open the new nodes editor, and press N to open the addon panel.
-- Start generating contents :)
+- Start generating contents :) [Read the tutorials in this repo](TUTORIALS.md)
 
 ---
 
