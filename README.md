@@ -6,7 +6,7 @@ A research script based on *Artificial Intelligence* for Blender[^1], this is a 
 
 
 
-## Acknowledgments
+## :radio_button: Acknowledgments
 
 ```py
 NOTE: This project is derived from the K.Sharon & Yorha4D work, called "ComfyUI-BlenderAI-node".
@@ -18,7 +18,7 @@ Release: 1.2.9 - Licensed under GNU General Public License v3.0
 
 ---
 
-## Objectives
+## :radio_button: Objectives
 
 The objectives of this project are to offer different digital creation tools, using Blender as the main platform. At a time when Blender 4x is in the process of being officially released, the main goal is to deliver this addon as soon as this new version of our favorite software is released. Here is a non-exhaustive list of planned functions:
 
@@ -30,7 +30,7 @@ The objectives of this project are to offer different digital creation tools, us
 
 ---
 
-## Features & Updates *(3.6.5 Beta Addon Release)*
+## :radio_button: Features & Updates *(3.6.5 Beta Addon Release)*
 
 - Image API generation (using a NEW **Node Editor** window)
 - **ComfyUI Server** connection for local sessions ([ComfyUI](https://github.com/comfyanonymous/ComfyUI) via [Stability Matrix](https://github.com/LykosAI/StabilityMatrix) ) PC Only!
@@ -51,7 +51,7 @@ The objectives of this project are to offer different digital creation tools, us
 
 ---
 
-## ComfyUI Installation and Modules
+## :radio_button: ComfyUI Installation and Modules
 
 After installing **ComfyUI** with your prefered plateform (i am using **Stability Matrix**), make sure you install the additional modules. To install these modules, open a CMD window in the \ComfyUI\custom_nodes folder. And "git clone" each one of them. By adding the link after "git clone".
 
@@ -65,7 +65,7 @@ After installing **ComfyUI** with your prefered plateform (i am using **Stabilit
 
 ---
 
-## Blender Addon Installation
+## :radio_button: Blender Addon Installation
 
 - Go to the user preferences screen (Edit -> User Preferences…).
 - Select the “Addons” tab.
@@ -78,7 +78,7 @@ After installing **ComfyUI** with your prefered plateform (i am using **Stabilit
 
 ---
 
-## Presets, Templates and Snippets
+## :radio_button: Presets, Templates and Snippets
 
 The addon offers 2 types of presets, full nodetrees and node groups. When the user saves a preet, it is automatically kept in specific folders. This allows, among other things, to share your “workflows” or nodetrees with other users. Here is the list of presets provided in this addon and their usage:
 
@@ -100,7 +100,7 @@ The addon offers 2 types of presets, full nodetrees and node groups. When the us
 
 ---
 
-## Learning from users, saving data as collection?
+## :radio_button: Learning from users, training from experience
 
 Objectives: Collecting user data and processing it locally allows you to create personalized artistic and technical models, ready to be used in a new nodetree.
 - Many options: Structural, Lineal, Hierachical...
@@ -148,7 +148,7 @@ Objectives: Collecting user data and processing it locally allows you to create 
 
 ---
 
-## LLM Structure
+## :radio_button: LLM Structure
 
 The addon has 3 modes: Analyse/Prepare/Write, external file from session start.
 
@@ -206,7 +206,7 @@ The addon has 3 modes: Analyse/Prepare/Write, external file from session start.
 
 ---
 
-## Infos
+## :radio_button: Infos
 
 * Author: **Uriel Deveaud** - [Kore Teknology](https://github.com/KoreTeknology) 
 
