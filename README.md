@@ -1,6 +1,6 @@
 <img alt="preview_v135" src="/media/header_addon.png">
 
-A research script based on *Artificial Intelligence* for Blender, this is a multi-steps development project, with **LLM Local System** focus in mind. This script/addon is intended to serve the purpose to *generate unique images and video sequences*, within **Blender Nodes Editor** and based on Public Checkpoint Models OR/AND **Private custom Models and LoRas**. It includes an integrated learning machine process as well as a workflows exporter script.
+A research script based on *Artificial Intelligence* for Blender[^1], this is a multi-steps development project, with **LLM Local System** focus in mind. This script/addon is intended to serve the purpose to *generate unique images and video sequences*, within **Blender Nodes Editor** and based on Public Checkpoint Models OR/AND **Private custom Models and LoRas**. It includes an integrated learning machine process as well as a workflows exporter script.
 
 <img src="https://img.shields.io/badge/Windows-11-purple" /> <img src="https://img.shields.io/badge/Blender-3.6.5/4-c11b3f" /> <img src="https://img.shields.io/badge/Python-3.10-blue" /> <img src="https://img.shields.io/badge/Addon-3.6.5-yellow" /> <img src="https://img.shields.io/badge/CAN-X.1567D-943585" /> <img src="https://img.shields.io/badge/BL-GAIA-943585" />
 
@@ -210,7 +210,9 @@ The addon has 3 modes: Analyse/Prepare/Write, external file from session start.
 
 * Author: **Uriel Deveaud** - [Kore Teknology](https://github.com/KoreTeknology) 
 
-<img src="https://img.shields.io/badge/CG Art-red" /> <img src="https://img.shields.io/badge/3D Blender-red" /> <img src="https://img.shields.io/badge/Python Dev-red" /> <img src="https://img.shields.io/badge/GAME Engine-darkorange" /> <img src="https://img.shields.io/badge/VR Environmental-darkorange" /> <img src="https://img.shields.io/badge/AI Training-darkorange" />
+<img src="https://img.shields.io/badge/CG Art-grey" /> <img src="https://img.shields.io/badge/3D Blender-red" /> <img src="https://img.shields.io/badge/Python Dev-red" /> <img src="https://img.shields.io/badge/GAME Engine-darkorange" /> <img src="https://img.shields.io/badge/VR Environmental-darkorange" /> <img src="https://img.shields.io/badge/AI Training-darkorange" />
 
 * License: This project is released under the GPL License.
 * This work is dedicated to all Blender users ;)
+
+[^1]: **Blender** is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation. Please, visit the [Blender Official Website](https://www.blender.org/).
