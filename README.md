@@ -17,6 +17,17 @@ Release: 1.2.9 - Licensed under GNU General Public License v3.0
 
 <img alt="Win 11" src="/media/win11_logo.png" width="90">
 
+---
+
+## Objectives
+
+The objectives of this project are to offer different digital creation tools, using Blender as the main platform. Here is a non-exhaustive list of planned functions:
+
+- **Create images from prompts (background image, textures, hdri, titles)**
+- **Create images from images (styles, tones, themes)**
+- **Create texts from prompts (subtitles)**
+- **Create images sequences (video strips, animations)**
+- **Create audio strips (voices, music themes)**
 
 ---
 
@@ -38,17 +49,6 @@ Release: 1.2.9 - Licensed under GNU General Public License v3.0
 
 
 <img alt="preview_v135" src="/media/addon_preview_v125.png">
-
----
-
-## Objectives
-
-The objectives of this project are to offer different digital creation tools, using Blender as the main platform. Here is a non-exhaustive list of planned functions:
-
-- **Create images from prompts (background image, textures, hdri, titles)**
-- **Create texts from prompts (subtitles)**
-- **Create images sequences (video strips, animations)**
-- **Create audio strips (Voices, music themes)**
 
 ---
 
