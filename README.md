@@ -67,7 +67,7 @@ After installing **ComfyUI** with your prefered plateform (i am using **Stabilit
 
 ## :radio_button: Blender Addon Installation
 
-- Go to the user preferences screen (Edit -> User Preferences…).
+- Go to the user preferences screen (Edit -> User Preferences).
 - Select the “Addons” tab.
 - Click “Install from File…” and select the downloaded zip file.
 - Click the checkbox on the left to enable the add-on.
