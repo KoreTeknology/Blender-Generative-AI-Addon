@@ -29,7 +29,7 @@ The objectives of this project are to offer different digital creation tools, us
 
 ---
 
-## Features & Updates (3.6.5 Beta Release)
+## Features & Updates *(3.6.5 Beta Addon Release)*
 
 - Image API generation (using a NEW **Node Editor** window)
 - **ComfyUI Server** connection for local sessions ([ComfyUI](https://github.com/comfyanonymous/ComfyUI) via [Stability Matrix](https://github.com/LykosAI/StabilityMatrix) ) PC Only!
