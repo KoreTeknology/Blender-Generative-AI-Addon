@@ -42,6 +42,7 @@ The objectives of this project are to offer different digital creation tools, us
 - **Processing** image-2-**Images-Sequence_Strip** option
 - **Preferences** Panel (Server Settings, LLM Settings, Options)
 - **NodeTree Editor Tools** Panel (N) with Presets collection
+- **Automatic generated content saving** in .blend file
 
 ### Todo List: [See next steps development phases](TODO_LIST.md) *Updated: 26/10/2023*
 
