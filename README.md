@@ -1,7 +1,7 @@
 # Blender Generative AI Addon
 A research script based on *Artificial Intelligence* for Blender, this is a multi-steps development project, with **LLM Local System** focus in mind. This script/addon is intended to serve the purpose to *generate unique images and video sequences*, within **Blender Nodes Editor** and based on Public Checkpoint Models OR/AND **Private custom Models and LoRas**. It includes an integrated learning machine process as well as a model exporter script.
 
-<img src="https://img.shields.io/badge/Windows-11-purple" /> <img src="https://img.shields.io/badge/Blender-3.6.5/4-green" /> <img src="https://img.shields.io/badge/Python-3.10-blue" /> <img src="https://img.shields.io/badge/Addon-1.1.5-yellow" /> <img src="https://img.shields.io/badge/CAN-X.1567D-red" /> <img src="https://img.shields.io/badge/BL-GAIA-orange" />
+<img src="https://img.shields.io/badge/Windows-11-purple" /> <img src="https://img.shields.io/badge/Blender-3.6.5/4-green" /> <img src="https://img.shields.io/badge/Python-3.10-blue" /> <img src="https://img.shields.io/badge/Addon-3.6.5-yellow" /> <img src="https://img.shields.io/badge/CAN-X.1567D-red" /> <img src="https://img.shields.io/badge/BL-GAIA-orange" />
 
 
 
@@ -29,7 +29,7 @@ The objectives of this project are to offer different digital creation tools, us
 
 ---
 
-## Features & Updates (1.1.4 Beta Release)
+## Features & Updates (3.6.5 Beta Release)
 
 - Image API generation (using a NEW **Node Editor** window)
 - **ComfyUI Server** connection for local sessions ([ComfyUI](https://github.com/comfyanonymous/ComfyUI) via [Stability Matrix](https://github.com/LykosAI/StabilityMatrix) ) PC Only!
