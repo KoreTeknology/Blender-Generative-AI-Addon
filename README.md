@@ -18,7 +18,7 @@ Users: https://github.com/Yorha4D & https://github.com/KarryCharon
 Release: 1.2.9 - Licensed under GNU General Public License v3.0
 ```
 
-*"I decided to re-write this addon for several reasons. The first was that the original translation was in Chinese and that some errors appeared due to non-standard characters. The second was that the interface deserved to be redesigned to integrate into my workflow. The third was that I wanted to add functions for animation and the video sequencer. And the last because I couldn't contact the developers of the project and offer my collaboration."* :raising_hand:
+*"I decided to re-write this addon for several reasons. The first was that the original translation was in Chinese and that some errors appeared due to non-standard characters. The second was that the interface deserved to be redesigned to integrate into my workflow. The third was that I wanted to add functions for animation and the video sequencer. And the last because I haven't found a way to get in touch with the developers of the project and offer my collaboration."* :raising_hand:
 
 ---
 
