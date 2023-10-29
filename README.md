@@ -54,7 +54,7 @@ The objectives of this project are to offer different digital creation tools, us
 
 ## :radio_button: ComfyUI Installation and Modules
 
-After installing [**ComfyUI**](https://github.com/comfyanonymous/ComfyUI) with your prefered plateform (i am using **Stability Matrix**), make sure you install the additional modules. To install these modules, open a CMD window in the \ComfyUI\custom_nodes folder. And "git clone" each one of them. By adding the link after "git clone".
+After installing [**ComfyUI**](https://github.com/comfyanonymous/ComfyUI) with your prefered plateform (i am using **Stability Matrix**), make sure you install the additional modules. Then you need to install [GIT software](https://git-scm.com/) (if it is not done already) on your computer. To install these modules, open a CMD window in the \ComfyUI\custom_nodes folder. And "git clone" each one of them. By adding the link after "git clone".
 
 - [ComfyUi-Manager](https://github.com/ltdrdata/ComfyUI-Manager)
 - [ComfyUI-Impact](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
