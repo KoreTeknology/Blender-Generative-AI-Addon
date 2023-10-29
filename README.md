@@ -97,6 +97,7 @@ The addon offers 2 types of presets, full nodetrees and node groups. When the us
 - **Film making setups**
   - VFX movie (Inpaint)
 
+---
 
 ## Learning from users, saving data as collection?
 
