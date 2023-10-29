@@ -4,7 +4,10 @@ A research script based on *Artificial Intelligence* for Blender[^1], this is a 
 
 <img src="https://img.shields.io/badge/Windows-11-purple" /> <img src="https://img.shields.io/badge/Blender-3.6.5/4-c11b3f" /> <img src="https://img.shields.io/badge/Python-3.10-blue" /> <img src="https://img.shields.io/badge/Addon-3.6.5-yellow" /> <img src="https://img.shields.io/badge/CAN-X.1567D-943585" />
 
-
+```diff
+!!! This documentation is in progress !!!
+the code release will be uploaded as soon as the package is ready, stay tuned...
+```
 
 ## :radio_button: Acknowledgments
 
