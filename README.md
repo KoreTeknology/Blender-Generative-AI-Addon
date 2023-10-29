@@ -54,12 +54,12 @@ The objectives of this project are to offer different digital creation tools, us
 
 After installing **ComfyUI** with your prefered plateform (i am using **Stability Matrix**), make sure you install the additional modules. To install these modules, open a CMD window in the \ComfyUI\custom_nodes folder. And "git clone" each one of them. By adding the link after "git clone".
 
-- ComfyUi-Manager
+- [ComfyUi-Manager](https://github.com/ltdrdata/ComfyUI-Manager)
 - [ComfyUI-Impact](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
 - [ComfyUI-Inspire](https://github.com/ltdrdata/ComfyUI-Inspire-Pack)
-- WAS Nodes Suite
-- Animate Diff
-- Prompt-Expansion
+- [WAS Nodes Suite](https://github.com/WASasquatch/was-node-suite-comfyui)
+- [Animate Diff](https://github.com/ArtVentureX/comfyui-animatediff)
+- [Prompt-Expansion](https://github.com/meap158/ComfyUI-Prompt-Expansion)
 - [Derfuu-ComfyUI_ModdedNodes](https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes)
 
 ---
