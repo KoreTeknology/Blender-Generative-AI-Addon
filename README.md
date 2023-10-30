@@ -36,8 +36,9 @@ The objectives of this project are to offer different digital creation tools, us
 
 ## :radio_button: Features & Updates *(3.6.5 Beta Addon Release)*
 
-- Image API generation (using a NEW **Node Editor** window)
+- NEW Blender **Node Editor** window
 - **ComfyUI Server** connection for local sessions ([ComfyUI](https://github.com/comfyanonymous/ComfyUI) via [Stability Matrix](https://github.com/LykosAI/StabilityMatrix) ) PC Only!
+- **Cpu** and **Gpu** processing with **Cuda** support
 - **Stable diffusion models** custom nodes, support *SD 1.5*, *2.0* and *XL 1.0* ([See tested Models List](TESTED_MODELS.md))
 - **Custom** checkpoints, LoRas, VAE loading/merging nodes
 - **Processing** Text-2-Single images and Image sequences, **rendering/storing**
