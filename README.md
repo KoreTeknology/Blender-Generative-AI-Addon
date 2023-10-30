@@ -36,20 +36,26 @@ The objectives of this project are to offer different digital creation tools, us
 
 ## :radio_button: Features & Updates *(3.6.5 Beta Addon Release)*
 
+### General
 - NEW Blender **Node Editor** window
-- **ComfyUI Server** connection for local sessions ([ComfyUI](https://github.com/comfyanonymous/ComfyUI) via [Stability Matrix](https://github.com/LykosAI/StabilityMatrix) ) PC Only!
-- **Cpu** and **Gpu** processing with **Cuda** support
+- **Server connection** for local ComfyUI sessions ([ComfyUI](https://github.com/comfyanonymous/ComfyUI) via [Stability Matrix](https://github.com/LykosAI/StabilityMatrix) ) PC Only!
+- **Cpu** OR **Gpu** processing with **Cuda** support
+- **Preferences** Panel (Server Settings, Image Rendering Settings, Training Options)
+- **NodeTree Editor Tools** Panel (N) with Presets collection and Store tools
+- **Automatic generated content saving** in .blend file
 - **Stable diffusion models** custom nodes, support *SD 1.5*, *2.0* and *XL 1.0* ([See tested Models List](TESTED_MODELS.md))
+
+### Custom
 - **Custom** checkpoints, LoRas, VAE loading/merging nodes
+- **LoRas Internal Training** wokflow included
+
+### Processing
 - **Processing** Text-2-Single images and Image sequences, **rendering/storing**
 - **Processing** Script-2-Prompt GPT-2 based custom nodes
 - **Processing** **3D scene**-2-rendered image custom nodes
 - **Processing** image-2-**Images-Sequence_Strip** option
-- **Preferences** Panel (Server Settings, LLM Settings, Options)
-- **NodeTree Editor Tools** Panel (N) with Presets collection
-- **Automatic generated content saving** in .blend file
 
-### Todo List: [See next steps development phases](TODO_LIST.md) *Updated: 26/10/2023*
+> Todo List: [See next steps development phases](TODO_LIST.md) *Updated: 26/10/2023*
 
 
 
