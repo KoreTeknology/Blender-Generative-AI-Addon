@@ -52,8 +52,8 @@ The objectives of this project are to offer different digital creation tools, us
 - **Processing** image-2-**Images-Sequence_Strip** option
 
 ### Custom
-- **Custom** checkpoints, LoRas, VAE loading/merging nodes
-- **LoRas Internal Training** wokflow included
+- **Custom** checkpoints, LoRas loading/merging nodes
+- **No LoRa Image Training** wokflow included
 - Background Mask with **Alpha channel** custom node
 
 > Todo List: [See next steps development phases](TODO_LIST.md) *Updated: 26/10/2023*
