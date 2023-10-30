@@ -19,7 +19,7 @@ In order to check the compatibility of public models, we will use here the model
       </li>
       <li><b>Vae</b>
         <ul>
-          <li>---</li>
+          <li>vae-ft-mse-840000-ema-pruned.ckpt.vae.pt</li>
           <li>---</li>
         </ul>
   </li>
