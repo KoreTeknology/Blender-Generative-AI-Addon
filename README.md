@@ -28,6 +28,7 @@ The objectives of this project are to offer different digital creation tools, us
 
 - **Create images from prompts (background image, textures, hdri, titles)**
 - **Create images from images (styles, tones, themes)**
+- **Create 3D Models from images (DMTet integration)**
 - **Create texts from prompts (subtitles)**
 - **Create images sequences from prompts/images (video strips, animations)**
 - **Create audio strips from prompts/images (voices, music themes)**
