@@ -8,6 +8,7 @@ The first step is to carry out a study on the existing script, deduce the struct
 - [x] Storing Main models for general testing purpose
 - [x] Storing proof-of-concepts models for advanced templates
 - [ ] New tools panel: Run the learning process, options
+- [ ] Make Nodes menu unique to area
 - [ ] Text-2-voices processing
 - [ ] Text-2-Music processing
 
